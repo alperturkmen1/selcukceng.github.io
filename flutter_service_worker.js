@@ -7,17 +7,17 @@ const RESOURCES = {
 "assets/assets/logo.png": "a395a92a5c55332121cdc05149496494",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "03849b67e7be6b8e1272b04868cd2388",
+"assets/NOTICES": "2d6849f96731a0d7ec2cabfb049041ec",
 "assets/packages/flex_color_picker/assets/opacity.png": "49c4f3bcb1b25364bb4c255edcaaf5b2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6fb95be053340b386c89ebbdeab076d5",
-"/": "6fb95be053340b386c89ebbdeab076d5",
-"main.dart.js": "47f9fe9d4098db8b7e8c075ccf89a351",
+"index.html": "1e40ecbf9ba9f58885844feeadd66fec",
+"/": "1e40ecbf9ba9f58885844feeadd66fec",
+"main.dart.js": "b85e56097427e33891a24c1ad45b70f3",
 "manifest.json": "b51a2e2288d635dd73f5931e714709b1",
 "splash/style.css": "86126e7e4072786170390b7ceee604b3",
-"version.json": "5d63c5f992d79ec78da6bf4ca935855c"
+"version.json": "81768f63d4dddaa4072ad3c5cd457bf9"
 };
 
 // The application shell files that are downloaded before a service worker can
